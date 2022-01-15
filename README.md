@@ -42,5 +42,5 @@ For all the above categories, small, medium, and large schools, the average math
 
 For both the district category and charter category, average math and reading scores stayed the same. for charter schools, percent passing math went down .4%, percent passing reading went down .9% and percent overall passing went down .4%. For district schools, percent passing math went down .5%, percent passing reading went down .2%, and percent overall passing went down .3%.
 
-##Summary
+## Summary
 From looking at the data before we changed the scores for Thomas High School, there are not huge difference in the scores. Still, with the large dataset we were given any change should be noted. There appears to not be one trend after changing the data. Some of the scores increased and some decreased, but nothing that would cause a huge change in the standing or ranks of the schools after altering the data for Thomas High School.
